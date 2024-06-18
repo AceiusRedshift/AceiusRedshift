@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AceiusRedshift/AceiusRedshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Aceius</h1>
+This is the GitHub account I use for school related stuff, specficically FRC robotics. I'm currently on team 8032, where I was the human player for the Crescendo 2024 season.
+
+Most of my personal stuff is over on [GitLab](https://gitlab.com/Aceius). You can reach me at `aceius@acei.us` or using the check out my website at https://acei.us.
